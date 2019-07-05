@@ -1,0 +1,1 @@
+@"G:\django-blog-master\venv\Scripts\python.exe" "G:\django-blog-master\venv\Scripts\markdown_py" %*
